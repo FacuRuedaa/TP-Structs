@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1490112216 source:c:\users\facun\onedrive\desktop\programacion i\guias respuestas\guia 6 estructuras\pila.c
+	"pila.h"
+
+1490112216 c:\users\facun\onedrive\desktop\programacion i\guias respuestas\guia 6 estructuras\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1591554441 source:c:\users\facun\onedrive\desktop\programacion i\guias respuestas\guia 6 estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<conio.h>
+	<string.h>
+
